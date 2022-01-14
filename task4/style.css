@@ -1,0 +1,35 @@
+.lesson {
+    text-align: center;
+    color: #f5f1f1;
+    background: #7e0606;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+
+}
+
+.lorem1 {
+    background: #ded9d9;
+    padding: 18px;
+    box-sizing: border-box;
+}
+
+.lorem2 {
+    background: #6e8ec7;
+    box-sizing: border-box;
+    height: 90px;
+    padding-top: 35px;
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    background: #589855;
+}
+
+.square2 {
+    width: 200px;
+    height: 200px;
+    border-radius: 18px;
+    background: #7772b0;
+}

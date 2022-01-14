@@ -1,0 +1,49 @@
+body {
+    background: #f5f1f1;
+    margin: 0;
+}
+
+
+.square {
+    box-sizing: border-box;
+    width: 150px;
+    height: 150px;
+    background-color: #ff6e1d ;
+    margin: 25px;
+    text-align: center;
+    padding-top: 70px;
+
+}
+
+.squareE {
+    box-sizing: border-box;
+    width: 150px;
+    height: 150px;
+    background-color: #ff6e1d ;
+    margin: 25px;
+    text-align: center;
+    padding-top: 70px;
+    border-radius: 5px;
+}
+
+.shadowA {
+    box-shadow: #252424 9px 9px 1px 1px;
+}
+
+.shadowB {
+    box-shadow: #252424 9px 9px 4px 3px;
+}
+.shadowC {
+    box-shadow: #252424 12px 12px 2px 4px;
+}
+
+.shadowD {
+    box-shadow: #8f8b8b 15px 16px 2px 4px
+}
+
+.shadowE {
+    box-shadow: #252424 12px 12px 2px 4px;
+}
+.shadowF {
+    box-shadow: #8c8787 12px 12px 2px 4px;
+}
